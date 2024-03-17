@@ -1,0 +1,1 @@
+This Project is made to visualize the frontend (ie. Amazon) of websites using HTML & CSS.
